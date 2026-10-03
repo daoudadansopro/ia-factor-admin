@@ -15,6 +15,10 @@ revient annoncés) et les coûts **mesurés** sur la plateforme en production.
 | Particulier | 149 € | 20 €/mois | 7–15 €/mois | ≈ 80 % | Après les pilotes (planning 07) |
 | AideHandicap | 149–199 € | 20–30 €/mois | 7–15 €/mois | ≈ 80 % | Nécessite un hébergement de santé certifié (coûts à revoir) |
 
+**Offre de lancement (décidée le 03/10/2026) : les commerces pilotes sont gratuits**, ni installation
+ni abonnement pendant le pilote ; tarif standard ensuite. La V1 tourne sur Telegram (ADR-0019 du dépôt
+`agentia`) : aucun coût de message WhatsApp en V1.
+
 La projection ci-dessous ne porte que sur l'offre **Entreprise**. Les deux autres dépendent de
 prérequis juridiques et d'hébergement non chiffrés (voir `agentia/docs/target-architecture-individuals.md`).
 
