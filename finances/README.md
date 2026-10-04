@@ -6,6 +6,7 @@ Suivi budgétaire du projet, partagé entre **Daouda Danso** (technique) et **R�
 |---|---|
 | [depenses.md](depenses.md) | Qui paie quoi, quand : dépenses payées, récurrentes, ponctuelles, règles de répartition, suivi des avances, calendrier des paiements |
 | [analyse-budgetaire.md](analyse-budgetaire.md) | Coût unitaire d'un client, coûts fixes, seuil de rentabilité, projections sur 24 mois (3 scénarios), indicateurs |
+| [IA-Factor-finances.xlsx](IA-Factor-finances.xlsx) | Classeur de suivi à importer dans Google Drive (version de référence : celle de Drive) : tableau des coûts, avances, projection 24 mois avec scénarios, synthèse, bilan simplifié, suivi réel mensuel |
 
 ## En bref (27/09/2026)
 
