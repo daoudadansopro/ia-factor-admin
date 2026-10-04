@@ -11,7 +11,7 @@ Dernière mise à jour : 27/09/2026.
 
 | Date | Dépense | Fournisseur | Montant | Payé par | Remarque |
 |---|---|---|---|---|---|
-| 26/09/2026 | Domaine `ai-team.fr` | Hostinger | à renseigner | Daouda | Abandonné, **non renouvelé** (aucune autre dépense à venir) |
+| 26/09/2026 | Domaine `ai-team.fr` | Hostinger | **10,25 $** | Daouda | Abandonné, **non renouvelé** (aucune autre dépense à venir) |
 | 26/09/2026 | Domaine `ia-factor.fr` (1re année) | Hostinger | à renseigner | Daouda | Domaine du projet |
 | 26/09/2026 | Domaine `ia-factor.com` (1re année) | IONOS | **10 €** | **Régis** | Protège la marque ; usage à décider (redirection vers `ia-factor.fr` recommandée) |
 | 26/09/2026 | VPS KVM 2 (1re période) | Hostinger | à renseigner (facture hPanel) | Daouda | Serveur de la plateforme et du site |
@@ -29,7 +29,7 @@ Dernière mise à jour : 27/09/2026.
 | **Abonnement Claude** (Claude Code) | Anthropic | à renseigner | mensuel | à renseigner | Daouda | Outil de développement |
 | Adresse e-mail `contact@ia-factor.fr` | à choisir | 0–3 €/mois *(estimation)* | mensuel | — | à définir | **Pas encore créée** : aucun forfait web/e-mail chez Hostinger. Nécessaire pour Meta, Let's Encrypt, contact |
 | Messages WhatsApp (rappels la veille) | Meta | quelques centimes par message *(à vérifier sur la grille Meta)* | à l'usage | après la mise en service WhatsApp | à définir | Réponses aux clients dans les 24 h : gratuites |
-| Frais de paiement des clients | Stripe | 1,5 % + 0,25 € par paiement carte UE *(à vérifier)* | à l'usage | au premier client payant | déduit des encaissements | ~0,70 € sur 30 €, ~3,24 € sur 199 € |
+| Frais de paiement des clients | Banque | **0 €** : les clients paient par **virement** (décidé le 04/10/2026) | — | — | — | Pas de carte bancaire, donc pas de Stripe |
 
 ## 3. Gratuit (à surveiller)
 
@@ -73,7 +73,7 @@ nom) ; **Régis** a payé le domaine `ia-factor.com` (compte IONOS à son nom). 
 
 | Date | Dépense | Montant | Avancé par | Part Daouda | Part Régis | Remboursé le |
 |---|---|---|---|---|---|---|
-| 26/09/2026 | Domaine `ai-team.fr` | à renseigner | Daouda | | | |
+| 26/09/2026 | Domaine `ai-team.fr` | 10,25 $ | Daouda | | | |
 | 26/09/2026 | Domaine `ia-factor.fr` | à renseigner | Daouda | | | |
 | 26/09/2026 | VPS KVM 2, 1re période | à renseigner | Daouda | | | |
 | 26/09/2026 | Domaine `ia-factor.com` | 10 € | Régis | | | |
@@ -94,7 +94,7 @@ nom) ; **Régis** a payé le domaine `ia-factor.com` (compte IONOS à son nom). 
 
 ## À compléter
 
-- [ ] Montants réels : `ai-team.fr`, `ia-factor.fr` (1re année), VPS (1re période), abonnement Claude, tarif de renouvellement de `ia-factor.com`
+- [ ] Montants réels : `ia-factor.fr` (1re année), VPS (1re période), abonnement Claude, tarif de renouvellement de `ia-factor.com`
 - [ ] Solution e-mail pour `contact@ia-factor.fr`
 - [ ] Règles de répartition (§5) validées par Daouda et Régis
 - [ ] Forme juridique et date de création de la société
